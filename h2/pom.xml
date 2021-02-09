@@ -47,7 +47,11 @@
     <pgjdbc.version>42.2.14</pgjdbc.version>
     <servlet.version>4.0.1</servlet.version>
     <slf4j.version>1.7.30</slf4j.version>
-    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>    
+    <sonar.projectKey>gii-is-AISS_h2database</sonar.projectKey>
+    <sonar.organization>gii-is-aiss</sonar.organization>
+    <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+    <SONAR_TOKEN>981bb729c122d77c7c70132175cad0fe2ed1f699</SONAR_TOKEN>
   </properties>
 
   <dependencies>
